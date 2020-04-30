@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5e2c3ba94c664a49bd4773af7617e08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  verticalAxis: Vertical
+  verticalAxis: Player
   moveSpeed: 10
 --- !u!1 &125714174
 GameObject:
@@ -1337,7 +1337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5e2c3ba94c664a49bd4773af7617e08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  verticalAxis: Vertical
+  verticalAxis: Player 2
   moveSpeed: 10
 --- !u!1 &1368873282
 GameObject:
